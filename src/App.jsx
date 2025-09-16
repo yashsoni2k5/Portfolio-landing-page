@@ -11,7 +11,7 @@ const App = () => {
    <Navbar/>
    <Marquee/>
    <Details/>
-  
+   
    </>
   )
 }
